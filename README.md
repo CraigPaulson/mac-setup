@@ -9,6 +9,7 @@ This is a list of the software I typically install/configure on a new OS X build
 * [Sublime Text](http://www.sublimetext.com/2)
 	* [Sublime Text Package Control](https://sublime.wbond.net/installation)
 	* [Sublime Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview#installation-)
+	* [Open files/folders from the command line](https://gist.github.com/artero/1236170): `ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime`
 * [iTerm2](http://www.iterm2.com/)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [git](http://git-scm.com/download/mac)
@@ -33,6 +34,8 @@ This is a list of the software I typically install/configure on a new OS X build
 * Growl (App Store)
 * [Charles](http://www.charlesproxy.com/)
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/)
+* [Skype](http://www.skype.com/)
+* [OmniGraffle](http://www.omnigroup.com/omnigraffle)
 
 ## Configure
 
