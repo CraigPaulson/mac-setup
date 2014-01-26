@@ -37,24 +37,26 @@ This is a list of the software I typically install/configure on a new OS X build
 ## Configure
 
 ### iTerm2
+
 To [toggle](http://coolestguidesontheplanet.com/show-hidden-library-and-user-library-folder-in-osx/) show/hide hidden files:  
 Show: `$ defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder`  
 Hide: `$ defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder`
 
 1. `$ brew install wget`
-2. Install [iTerm2](http://www.iterm2.com/)
-3. Install [on-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 
+2. Install [iTerm2](http://www.iterm2.com/).
+3. Install [on-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 4. Install fonts, [Source Code Pro for Powerline](https://github.com/Lokaltog/powerline-fonts/tree/master/SourceCodePro). Use the OTF fonts. 
-5. Install these [three fonts](https://gist.github.com/qrush/1595572)
+5. Install these [three fonts](https://gist.github.com/qrush/1595572).
 6. Copy remy theme to `~/.oh-my-zsh/themes` (use version in src).
 7. Edit `~/.zshrc` to use the remy theme. `ZSH_THEME="remy"`
-8. Install [iTerm theme](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized) (use customized version in src)
+8. Install [iTerm theme](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized) (use customized version in src).
 9. Turn off smart cursor color. 
 10. Make sure the font is 15pt Source Code Powerline.
 11. Adjust the vertical character spacing down slightly. 
 
 ### GeekTool
-Modification is likely required to get them to work for you.
+
+Modification is likely required to get these to work for you.
 
 1. Open GeekTool, Enable, Check "Automatically launch at login". 
 2. Create a new group.
