@@ -29,6 +29,8 @@ This is a list of the software I typically install/configure on a new OS X build
 * [Chef](http://www.getchef.com/chef/install/)
 * [Bower](http://bower.io/): `$ sudo npm install -g bower`
 * [Yeoman](npm install -g yo): `$ sudo npm install -g yo`
+* [PhantomJS](http://phantomjs.org/)
+* [CasperJS](http://casperjs.org/)
 * xCode (App Store)
 * GeekTool (App Store)
 * Growl (App Store)
