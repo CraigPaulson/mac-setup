@@ -55,8 +55,8 @@ Hide: `$ defaults write com.apple.finder AppleShowAllFiles -boolean false ; kill
 5. Install these [three fonts](https://gist.github.com/qrush/1595572).
 6. Copy remy theme to `~/.oh-my-zsh/themes` (use version in src).
 7. Edit `~/.zshrc` to use the remy theme. `ZSH_THEME="remy"`
-8. Install [iTerm theme](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized) (use customized version in src).
-9. Turn off smart cursor color. 
+8. Install [iTerm theme](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized) (use customized version in src. Download, double click and it will import.  You can find it under Preferences>Profiles>Colors>Load Presets…).
+9. Turn off smart cursor color (prefs->profile->colors). 
 10. Make sure the font is 15pt Source Code Powerline.
 11. Adjust the vertical character spacing down slightly. 
 
