@@ -18,6 +18,16 @@ This is a list of the software I typically install/configure on a new OS X build
 * [Node](http://nodejs.org)
 * [Brew](http://brew.sh/)
 * [Ruby](https://www.ruby-lang.org/en/installation/#homebrew)
+* [Command Line Tools (Mavericks) for Xcode](https://developer.apple.com/downloads/index.action?name=for%20Xcode%20-)
+* Ruby Version Manager
+	*  Install rvm with: \curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable
+	*  To initialize RVM type: source ~/.rvm/scripts/rvm
+	*  List the latest ruby versions with: rvm list known
+		* (control-z or control-d)  
+	*  rvm install ruby-[version number]
+* Cucumber
+	* sudo gem install cucumber
+	* cucumber --help
 * [Dropbox](http://www.dropbox.com)
 * [1Password](https://agilebits.com/onepassword)
 * [Quicksilver](http://qsapp.com/)
