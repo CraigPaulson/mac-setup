@@ -28,6 +28,7 @@ This is a list of the software I typically install/configure on a new OS X build
 * Cucumber
 	* sudo gem install cucumber
 	* cucumber --help
+	* bundle exec cucumber
 * [Dropbox](http://www.dropbox.com)
 * [1Password](https://agilebits.com/onepassword)
 * [Quicksilver](http://qsapp.com/)
