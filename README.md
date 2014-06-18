@@ -6,6 +6,7 @@ This is a list of the software I typically install/configure on a new OS X build
 
 * [Chrome](http://google.com/chrome)
 	* Remove the Chrome notification icon from the menu bar: chrome://flags then disabe "Enable Rich notifications".
+* [Bartender](http://www.macbartender.com/gettingstarted/installing-bartender/) (or App Store)
 * [Evernote](http://evernote.com/download) (or App Store)
 * [Sublime Text](http://www.sublimetext.com/2)
 	* [Sublime Text Package Control](https://sublime.wbond.net/installation)
